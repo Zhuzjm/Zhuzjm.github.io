@@ -45,7 +45,7 @@ social:
 
 permalink: /:year/:month/:title/
 # Format
-highlighter: rouge
+highlighter:　rouge
 
 textColor: #FF0000
 
@@ -54,7 +54,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title:　"http://www.zhuzjm.me"
 
 # Navigation buttons in the front page.s
 nav:
