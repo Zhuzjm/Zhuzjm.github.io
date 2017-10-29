@@ -12,6 +12,15 @@ tag: Plug-in
 CrazyBump界面翻译如下：
 
 ![](/images/Pic/CrazyBump简介/CrazyBump简介_1.jpg)
+以上各功能贴图在UE4材质中对应的通道为：
+
+CrazyBump——>UE4
+
+Diffuse——>Base Color
+
+Normals——>Normal
+
+Occlusion——>Roughness
 
 
 
