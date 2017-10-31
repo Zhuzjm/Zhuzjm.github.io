@@ -8,8 +8,6 @@ tag: Plug-in
 ### 关于CrazyBump
 [CrazyBump](http://www.crazybump.com/)是一款用于制作法线贴图（Normals）的插件，也可导出置换贴图(Displacement)，AO贴图(Occlusion)，高光贴图(Specularity)，漫反射贴图(Diffuse)，一般用于三维软件渲染或游戏引擎美术需要。
 
-CrazyBump[具体使用教程](http://pan.baidu.com/s/1mhYaw6c)
-
 ### 下载地址
 
 [CrazyBump下载](http://pan.baidu.com/s/1skW4iip)
