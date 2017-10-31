@@ -23,7 +23,7 @@ Specularity——>
 
 Displacement——>
 
-各贴图详细用法参考［材质基础］(http://www.zhuzjm.me/2016/07/%E6%9D%90%E8%B4%A8%E5%9F%BA%E7%A1%80/)。
+各贴图详细用法参考［材质基础］(http://www.zhuzjm.me/2016/07/%E6%9D%90%E8%B4%A8%E5%9F%BA%E7%A1%80/)
 
 ### 下载地址
 
