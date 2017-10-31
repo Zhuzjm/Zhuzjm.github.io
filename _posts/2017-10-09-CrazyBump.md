@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CrazyBump介绍"
+title: "CrazyBump"
 date: 2016-07-05
 description: "CrazyBump，贴图处理"
 tag: Plug-in
@@ -11,6 +11,3 @@ tag: Plug-in
 ### 下载地址
 
 [CrazyBump下载](http://pan.baidu.com/s/1skW4iip)
-
-<br>
-转载请注明原地址，朱稼萌的博客：[http://www.zhuzjm.me/](http://www.zhuzjm.me/) 谢谢！
