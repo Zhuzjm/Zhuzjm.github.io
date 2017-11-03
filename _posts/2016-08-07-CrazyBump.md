@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CrazyBump"
-date: 2016-07-05
+date: 2016-08-07
 description: "CrazyBump，贴图处理"
 tag: Plug-in
 ---  
