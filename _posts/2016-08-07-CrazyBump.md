@@ -2,12 +2,18 @@
 layout: post
 title: "CrazyBump"
 date: 2016-08-07
-description: "CrazyBump，贴图处理"
+description: "贴图处理"
 tag: Plug-in
 ---  
-### 关于CrazyBump
+### CrazyBump
 
 [CrazyBump](http://www.crazybump.com/)
 是一款用于制作法线贴图（Normals）的插件，也可导出置换贴图(Displacement)，AO贴图(Occlusion)，高光贴图(Specularity)，漫反射贴图(Diffuse)，一般用于三维软件渲染或游戏引擎美术需要。
 
 [CrazyBump下载](http://pan.baidu.com/s/1skW4iip)
+
+### Seamless
+
+Seamless为无缝贴图制作软件，处理非常迅速，可以为节省大量的时间。     
+
+[Seamless下载](http://pan.baidu.com/s/1qXOyP7u)
