@@ -33,7 +33,17 @@ Sequencer可以看做是AE软件中的一个合成组，这个合成组可以由
 
 
 
+### 其他常用功能
 
+Fade Track：淡入/淡出
+
+Audio Track:添加音频
+
+Play Rate Track：调整动画播放速度
+
+Weight(Animation):动画混合
+
+Get Sequence Player ：蓝图中调用播放
 
 
 
