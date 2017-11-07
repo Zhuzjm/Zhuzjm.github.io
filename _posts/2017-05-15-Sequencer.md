@@ -22,13 +22,13 @@ Sequencer 是虚幻引擎中的两大动画编辑工具之一。作为承接之�
 
 Sequencer可以看做是AE软件中的一个合成组，这个合成组可以由原始的要素(即摄像机，角色，物体，粒子)组成动画组。
 
-![](images/Pic/Sequencer/Sequencer01.png)
+![](/images/Pic/Sequencer/Sequencer01.png)
 
 
 
 也可以由各动画组组合成动画合成组。
 
-![](images/Pic/Sequencer/Sequencer02.png)
+![](/images/Pic/Sequencer/Sequencer02.png)
 
 
 
