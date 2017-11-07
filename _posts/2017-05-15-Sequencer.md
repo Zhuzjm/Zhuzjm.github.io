@@ -43,7 +43,7 @@ Play Rate Track：调整动画播放速度
 
 Weight(Animation):动画混合
 
-Get Sequence Player ：蓝图中调用播放
+Playe ：蓝图中调用播放
 
 
 
